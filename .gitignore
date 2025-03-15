@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 .DS_Store
 .build/
+=======
+.build/
+.DS_Store
+.swiftpm/
+xcuserdata/
+DerivedData/
+>>>>>>> 91758b2c9e42109308f28775c20fb1847a94f122
